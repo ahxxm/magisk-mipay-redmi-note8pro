@@ -2,7 +2,7 @@
 
 ## 自行制作Magisk Module
 
-其他**MIUI 11**机型也可以这么做：
+其他**MIUI(>=11)**机型也可以这么做：
 
 ```bash
 git clone https://github.com/ahxxm/magisk-mipay-redmi-note8pro.git

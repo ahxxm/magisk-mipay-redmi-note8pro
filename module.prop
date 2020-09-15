@@ -1,0 +1,7 @@
+id=com.redmi.note8pro.mipay
+name=MiPay for RedMi Note8 Pro
+version=v1
+versionCode=1
+author=yoursincere
+description=for Redmi note8 pro
+minMagisk=17000

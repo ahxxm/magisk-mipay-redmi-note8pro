@@ -36,4 +36,4 @@ zip -r mipay-redmi-note8-pro.zip META-INF system config.sh module.prop system.pr
 
 [magisk-mipay-lmi](https://github.com/rewqazxv/magisk-mipay-lmi)：本仓库`update-binary`和目录结构都是从这里抄的
 
-
+[MiuiEULocalizationToolsBox](https://github.com/MinaMichita/MiuiEULocalizationToolsBox) 和 [blog](https://blog.minamigo.moe/archives/184)
